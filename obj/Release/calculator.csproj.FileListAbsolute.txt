@@ -1,0 +1,103 @@
+C:\Users\chenyanheng\Desktop\Calculator(正在开发\bin\Release\Calculator.exe.config
+C:\Users\chenyanheng\Desktop\Calculator(正在开发\bin\Release\Calculator.exe
+C:\Users\chenyanheng\Desktop\Calculator(正在开发\bin\Release\Calculator.pdb
+C:\Users\chenyanheng\Desktop\Calculator(正在开发\bin\Release\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\chenyanheng\Desktop\Calculator(正在开发\bin\Release\System.Diagnostics.DiagnosticSource.dll
+C:\Users\chenyanheng\Desktop\Calculator(正在开发\bin\Release\System.Reactive.dll
+C:\Users\chenyanheng\Desktop\Calculator(正在开发\bin\Release\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\chenyanheng\Desktop\Calculator(正在开发\bin\Release\System.Threading.Tasks.Extensions.dll
+C:\Users\chenyanheng\Desktop\Calculator(正在开发\bin\Release\XamlFlair.WPF.dll
+C:\Users\chenyanheng\Desktop\Calculator(正在开发\bin\Release\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\chenyanheng\Desktop\Calculator(正在开发\bin\Release\System.Diagnostics.DiagnosticSource.xml
+C:\Users\chenyanheng\Desktop\Calculator(正在开发\bin\Release\System.Reactive.xml
+C:\Users\chenyanheng\Desktop\Calculator(正在开发\bin\Release\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\chenyanheng\Desktop\Calculator(正在开发\bin\Release\System.Threading.Tasks.Extensions.xml
+C:\Users\chenyanheng\Desktop\Calculator(正在开发\obj\Release\calculator.csproj.AssemblyReference.cache
+C:\Users\chenyanheng\Desktop\Calculator(正在开发\obj\Release\View\DefaultStyle.baml
+C:\Users\chenyanheng\Desktop\Calculator(正在开发\obj\Release\View\ScrollViewerDictionary.baml
+C:\Users\chenyanheng\Desktop\Calculator(正在开发\obj\Release\MainWindow.g.cs
+C:\Users\chenyanheng\Desktop\Calculator(正在开发\obj\Release\View\historyControl.g.cs
+C:\Users\chenyanheng\Desktop\Calculator(正在开发\obj\Release\App.g.cs
+C:\Users\chenyanheng\Desktop\Calculator(正在开发\obj\Release\Calculator_MarkupCompile.cache
+C:\Users\chenyanheng\Desktop\Calculator(正在开发\obj\Release\Calculator_MarkupCompile.lref
+C:\Users\chenyanheng\Desktop\Calculator(正在开发\obj\Release\App.baml
+C:\Users\chenyanheng\Desktop\Calculator(正在开发\obj\Release\MainWindow.baml
+C:\Users\chenyanheng\Desktop\Calculator(正在开发\obj\Release\View\historyControl.baml
+C:\Users\chenyanheng\Desktop\Calculator(正在开发\obj\Release\Calculator.g.resources
+C:\Users\chenyanheng\Desktop\Calculator(正在开发\obj\Release\Calculator.Properties.Resources.resources
+C:\Users\chenyanheng\Desktop\Calculator(正在开发\obj\Release\calculator.csproj.GenerateResource.cache
+C:\Users\chenyanheng\Desktop\Calculator(正在开发\obj\Release\calculator.csproj.CoreCompileInputs.cache
+C:\Users\chenyanheng\Desktop\Calculator(正在开发\obj\Release\calculator.sourcelink.json
+C:\Users\chenyanheng\Desktop\Calculator(正在开发\obj\Release\calculator.csproj.Up2Date
+C:\Users\chenyanheng\Desktop\Calculator(正在开发\obj\Release\Calculator.exe
+C:\Users\chenyanheng\Desktop\Calculator(正在开发\obj\Release\Calculator.pdb
+C:\Users\chenyanheng\Desktop\Calculator(正在开发\obj\Release\View\OpenPage.g.cs
+C:\Users\chenyanheng\Desktop\Calculator(正在开发\obj\Release\View\OpenPage.baml
+C:\Users\Stupid Cat\Desktop\Calculator(正在开发\bin\Release\Calculator.exe.config
+C:\Users\Stupid Cat\Desktop\Calculator(正在开发\bin\Release\Calculator.exe
+C:\Users\Stupid Cat\Desktop\Calculator(正在开发\bin\Release\Calculator.pdb
+C:\Users\Stupid Cat\Desktop\Calculator(正在开发\bin\Release\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Stupid Cat\Desktop\Calculator(正在开发\bin\Release\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Stupid Cat\Desktop\Calculator(正在开发\bin\Release\System.Reactive.dll
+C:\Users\Stupid Cat\Desktop\Calculator(正在开发\bin\Release\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Stupid Cat\Desktop\Calculator(正在开发\bin\Release\System.Threading.Tasks.Extensions.dll
+C:\Users\Stupid Cat\Desktop\Calculator(正在开发\bin\Release\XamlFlair.WPF.dll
+C:\Users\Stupid Cat\Desktop\Calculator(正在开发\bin\Release\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Stupid Cat\Desktop\Calculator(正在开发\bin\Release\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Stupid Cat\Desktop\Calculator(正在开发\bin\Release\System.Reactive.xml
+C:\Users\Stupid Cat\Desktop\Calculator(正在开发\bin\Release\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Stupid Cat\Desktop\Calculator(正在开发\bin\Release\System.Threading.Tasks.Extensions.xml
+C:\Users\Stupid Cat\Desktop\Calculator(正在开发\obj\Release\calculator.csproj.AssemblyReference.cache
+C:\Users\Stupid Cat\Desktop\Calculator(正在开发\obj\Release\View\DefaultStyle.baml
+C:\Users\Stupid Cat\Desktop\Calculator(正在开发\obj\Release\View\ScrollViewerDictionary.baml
+C:\Users\Stupid Cat\Desktop\Calculator(正在开发\obj\Release\MainWindow.g.cs
+C:\Users\Stupid Cat\Desktop\Calculator(正在开发\obj\Release\View\historyControl.g.cs
+C:\Users\Stupid Cat\Desktop\Calculator(正在开发\obj\Release\App.g.cs
+C:\Users\Stupid Cat\Desktop\Calculator(正在开发\obj\Release\Calculator_MarkupCompile.cache
+C:\Users\Stupid Cat\Desktop\Calculator(正在开发\obj\Release\Calculator_MarkupCompile.lref
+C:\Users\Stupid Cat\Desktop\Calculator(正在开发\obj\Release\App.baml
+C:\Users\Stupid Cat\Desktop\Calculator(正在开发\obj\Release\MainWindow.baml
+C:\Users\Stupid Cat\Desktop\Calculator(正在开发\obj\Release\View\historyControl.baml
+C:\Users\Stupid Cat\Desktop\Calculator(正在开发\obj\Release\Calculator.g.resources
+C:\Users\Stupid Cat\Desktop\Calculator(正在开发\obj\Release\Calculator.Properties.Resources.resources
+C:\Users\Stupid Cat\Desktop\Calculator(正在开发\obj\Release\calculator.csproj.GenerateResource.cache
+C:\Users\Stupid Cat\Desktop\Calculator(正在开发\obj\Release\calculator.csproj.CoreCompileInputs.cache
+C:\Users\Stupid Cat\Desktop\Calculator(正在开发\obj\Release\calculator.sourcelink.json
+C:\Users\Stupid Cat\Desktop\Calculator(正在开发\obj\Release\calculator.csproj.Up2Date
+C:\Users\Stupid Cat\Desktop\Calculator(正在开发\obj\Release\Calculator.exe
+C:\Users\Stupid Cat\Desktop\Calculator(正在开发\obj\Release\Calculator.pdb
+C:\Users\Stupid Cat\Desktop\Calculator(正在开发 - 副本 (2)\bin\Release\Calculator.exe.config
+C:\Users\Stupid Cat\Desktop\Calculator(正在开发 - 副本 (2)\bin\Release\Calculator.exe
+C:\Users\Stupid Cat\Desktop\Calculator(正在开发 - 副本 (2)\bin\Release\Calculator.pdb
+C:\Users\Stupid Cat\Desktop\Calculator(正在开发 - 副本 (2)\bin\Release\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Stupid Cat\Desktop\Calculator(正在开发 - 副本 (2)\bin\Release\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Stupid Cat\Desktop\Calculator(正在开发 - 副本 (2)\bin\Release\System.Reactive.dll
+C:\Users\Stupid Cat\Desktop\Calculator(正在开发 - 副本 (2)\bin\Release\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Stupid Cat\Desktop\Calculator(正在开发 - 副本 (2)\bin\Release\System.Threading.Tasks.Extensions.dll
+C:\Users\Stupid Cat\Desktop\Calculator(正在开发 - 副本 (2)\bin\Release\XamlFlair.WPF.dll
+C:\Users\Stupid Cat\Desktop\Calculator(正在开发 - 副本 (2)\bin\Release\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Stupid Cat\Desktop\Calculator(正在开发 - 副本 (2)\bin\Release\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Stupid Cat\Desktop\Calculator(正在开发 - 副本 (2)\bin\Release\System.Reactive.xml
+C:\Users\Stupid Cat\Desktop\Calculator(正在开发 - 副本 (2)\bin\Release\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Stupid Cat\Desktop\Calculator(正在开发 - 副本 (2)\bin\Release\System.Threading.Tasks.Extensions.xml
+C:\Users\Stupid Cat\Desktop\Calculator(正在开发 - 副本 (2)\obj\Release\calculator.csproj.AssemblyReference.cache
+C:\Users\Stupid Cat\Desktop\Calculator(正在开发 - 副本 (2)\obj\Release\View\DefaultStyle.baml
+C:\Users\Stupid Cat\Desktop\Calculator(正在开发 - 副本 (2)\obj\Release\View\ScrollViewerDictionary.baml
+C:\Users\Stupid Cat\Desktop\Calculator(正在开发 - 副本 (2)\obj\Release\MainWindow.g.cs
+C:\Users\Stupid Cat\Desktop\Calculator(正在开发 - 副本 (2)\obj\Release\NewPage\concisepage.g.cs
+C:\Users\Stupid Cat\Desktop\Calculator(正在开发 - 副本 (2)\obj\Release\View\historyControl.g.cs
+C:\Users\Stupid Cat\Desktop\Calculator(正在开发 - 副本 (2)\obj\Release\App.g.cs
+C:\Users\Stupid Cat\Desktop\Calculator(正在开发 - 副本 (2)\obj\Release\Calculator_MarkupCompile.cache
+C:\Users\Stupid Cat\Desktop\Calculator(正在开发 - 副本 (2)\obj\Release\Calculator_MarkupCompile.lref
+C:\Users\Stupid Cat\Desktop\Calculator(正在开发 - 副本 (2)\obj\Release\App.baml
+C:\Users\Stupid Cat\Desktop\Calculator(正在开发 - 副本 (2)\obj\Release\MainWindow.baml
+C:\Users\Stupid Cat\Desktop\Calculator(正在开发 - 副本 (2)\obj\Release\NewPage\concisepage.baml
+C:\Users\Stupid Cat\Desktop\Calculator(正在开发 - 副本 (2)\obj\Release\View\historyControl.baml
+C:\Users\Stupid Cat\Desktop\Calculator(正在开发 - 副本 (2)\obj\Release\Calculator.g.resources
+C:\Users\Stupid Cat\Desktop\Calculator(正在开发 - 副本 (2)\obj\Release\Calculator.Properties.Resources.resources
+C:\Users\Stupid Cat\Desktop\Calculator(正在开发 - 副本 (2)\obj\Release\calculator.csproj.GenerateResource.cache
+C:\Users\Stupid Cat\Desktop\Calculator(正在开发 - 副本 (2)\obj\Release\calculator.csproj.CoreCompileInputs.cache
+C:\Users\Stupid Cat\Desktop\Calculator(正在开发 - 副本 (2)\obj\Release\calculator.sourcelink.json
+C:\Users\Stupid Cat\Desktop\Calculator(正在开发 - 副本 (2)\obj\Release\calculator.csproj.Up2Date
+C:\Users\Stupid Cat\Desktop\Calculator(正在开发 - 副本 (2)\obj\Release\Calculator.exe
+C:\Users\Stupid Cat\Desktop\Calculator(正在开发 - 副本 (2)\obj\Release\Calculator.pdb
